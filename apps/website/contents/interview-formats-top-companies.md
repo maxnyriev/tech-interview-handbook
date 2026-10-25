@@ -73,6 +73,7 @@ Are there companies you would like to know more about? Email us at [contact{at}t
   - 1 or 2 x Front end on whiteboard. May be required to use Vanilla JS (or at the most, jQuery) depending on the question. (Front End only)
   - 2 to 4 x Algorithm on whiteboard
   - 1 x General Cognitive Ability, Leadership and "Googleyness".
+- Code comprehension round (pilot in 2026 for junior and mid-level roles on some US teams): read, debug and extend an existing codebase, with Gemini as the approved AI assistant
 - Team matching
   - Speak with managers from different teams who are interested in your profile
 - Tips:
@@ -118,6 +119,7 @@ Are there companies you would like to know more about? Email us at [contact{at}t
   - 2 x Technical coding interview on whiteboard
   - 1 x Behavioral. Meet with an Engineering Manager and discussing past experiences and working style
   - 1 x Design/architecture on whiteboard
+  - AI-enabled coding interview (pilot since 2025): an existing codebase in CoderPad with an AI assistant built in. Candidates report it replaces one of the coding rounds
 - Onsite (University Grad):
   - 2 x Technical coding interview on whiteboard
   - 1 x Behavioral. Meet with an Engineering Manager and discussing past experiences and working style

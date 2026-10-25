@@ -106,6 +106,19 @@ For onsite interviews at smaller (non-public) companies, most will allow (and pr
 
 If the company provides lunch, you might also have a lunch session with an employee where you can find out more about the company culture.
 
+### 6. AI-assisted coding round
+
+Frequency: Growing
+
+Since mid-2025 a growing number of companies run a coding round where an AI assistant is part of the interview instead of being banned from it. Canva was the first to say so publicly (June 2025), and Meta, Shopify, DoorDash, Amazon, Stripe, Coinbase, Google, Instacart and Atlassian have followed, some as a pilot and some as a standard round. In most of these rounds you are given an existing codebase rather than a blank editor, and the task is to extend, debug or explain it with the assistant's help. Tests usually gate the task, and the interviewer asks you about the code you submitted afterwards.
+
+Two things differ between companies and are worth finding out before you prepare:
+
+- Who provides the assistant. At Amazon, Stripe, Instacart, Meta, Atlassian and Google the company gives you its own assistant inside its interview tool (such as HackerRank, CodeSignal or CoderPad). At Canva, DoorDash and Shopify you use your own editor and tools.
+- What is graded. The assistant writes much of the code, so the code alone says little. Interviewers look at whether you directed the assistant, checked what it wrote, and can explain the result. Practice explaining code you did not write yourself.
+
+A dated list of the companies running this round, with a source for each, is kept at [The state of AI coding interviews, 2026](https://nyrion.ai/research/ai-coding-interviews-2026).
+
 ## Pick a programming language
 
 With your resume done, the next step of your software engineering interview journey is a simple one and won't take long - decide on a programming language. Unless you're interviewing for a specialist position like mobile or front end where there are domain-specific languages, you should be free to use any language you want for the algorithmic coding interviews.
